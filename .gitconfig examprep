@@ -1,0 +1,10 @@
+[user]
+	name = " SB NDWANDWA"
+	mail = 201811901@ump.ac.za
+	email = 201811901@ump.ac.za
+[core]
+	editor = nano
+[plus]
+	default = simple
+[pus]
+	default = simple
